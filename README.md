@@ -1,4 +1,4 @@
-# 💜👋 Hola, soy Emily Jazmín Cruz  
+# 💜 Hola, soy Emily Jazmín Cruz  
 
 <p align="center">
   💻 Estudiante de Desarrollo de Software | El Salvador 🇸🇻 <br>
