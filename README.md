@@ -19,41 +19,20 @@
 
 ---
 
-## 💻 Terminal
-
 ```bash
-┌──(emily㉿github)-[~/profile]
-└─$ whoami
+$ whoami
 Emily Jazmin Cruz Rojas
 
-┌──(emily㉿github)-[~/profile]
-└─$ cat about.txt
+$ cat about.txt
 💻 Software Development Student
-🚀 Tech Enthusiast
 🌐 Web Developer in progress
 🇸🇻 El Salvador
 
-┌──(emily㉿github)-[~/profile]
-└─$ python skills.py
-
-skills = {
-    "languages": ["Python", "JavaScript", "HTML", "CSS"],
-    "interests": [
-        "Web Development",
-        "Databases",
-        "Technology Innovation",
-        "Software Development"
-    ],
-    "tools": [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Linux"
-    ]
-}
-
-print("Welcome to my GitHub profile 💜")
+$ skills
+Python · JavaScript · HTML · CSS  
+Git · GitHub · VS Code · Linux
 ```
+
 
 ---
 
