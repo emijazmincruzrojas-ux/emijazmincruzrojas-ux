@@ -1,98 +1,112 @@
-# 👋 Hola, soy Emily Jazmín Cruz  
-💻 Estudiante de Desarrollo de Software | El Salvador 🇸🇻  
-Apasionada por la tecnología, el desarrollo web y los sistemas Linux 🚀  
+# 💜👋 Hola, soy Emily Jazmín Cruz  
+
+<p align="center">
+  💻 Estudiante de Desarrollo de Software | El Salvador 🇸🇻 <br>
+  🚀 Apasionada por la tecnología, el desarrollo web y Linux  
+</p>
 
 ---
 
-## 🚀 Sobre mí  
+## 💜 🚀 Sobre mí  
 
-Soy estudiante de desarrollo de software con enfoque en desarrollo web, bases de datos y uso de entornos Linux. Me gusta trabajar en proyectos prácticos que me ayuden a mejorar mis habilidades técnicas y seguir aprendiendo cada día.  
+✨ Soy estudiante de desarrollo de software enfocada en crear proyectos web y trabajar con bases de datos.  
+💡 Me gusta aprender cosas nuevas, experimentar con tecnología y mejorar cada día.  
 
 - 💻 Desarrollo aplicaciones web  
-- 🐧 Trabajo con Ubuntu y herramientas Linux  
-- 🗄️ Manejo de bases de datos  
-- ⚙️ Uso Git y GitHub para control de versiones  
-- 💡 Me gusta crear proyectos innovadores  
-- 📚 Siempre aprendiendo nuevas tecnologías  
+- 🐧 Uso Ubuntu y herramientas Linux  
+- 🗄️ Trabajo con bases de datos MySQL  
+- ⚙️ Manejo Git y GitHub  
+- 🚀 Me gustan los proyectos innovadores  
+- 📚 Siempre en aprendizaje constante  
 
 ---
 
-## 🛠 Tecnologías  
+## 💜 🛠 Tecnologías  
 
-### 💻 Lenguajes  
-- JavaScript  
-- Python  
-- HTML  
-- SQL  
+<p align="center">
 
-### 🗄️ Bases de Datos  
-- MySQL  
+<img src="https://img.shields.io/badge/JavaScript-6A0DAD?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-9370DB?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-BA55D3?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### 🐧 Sistemas Operativos  
-- Ubuntu  
-- Linux  
+<br>
 
-### ⚙️ Herramientas  
-- Git  
-- GitHub  
-- Terminal  
+<img src="https://img.shields.io/badge/MySQL-6A0DAD?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-8A2BE2?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-9370DB?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
----
+<br>
 
-## 📊 Estadísticas GitHub  
+<img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emijazmincruzrojas-ux&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=emijazmincruzrojas-ux&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emijazmincruzrojas-ux&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-## 📌 Proyectos  
+## 💜 📊 Estadísticas  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emijazmincruzrojas-ux&show_icons=true&theme=tokyonight"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=emijazmincruzrojas-ux&theme=tokyonight"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emijazmincruzrojas-ux&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 💜 📌 Proyectos  
 
 ### 🏪 Sistema de Inventario  
-Sistema enfocado en la gestión de productos, permitiendo organizar y controlar información de inventario de forma eficiente.  
+💡 Sistema para gestionar productos e inventario de forma eficiente  
 
 🔗 https://github.com/emijazmincruzrojas-ux/Sistema_Inventario  
-**Tecnologías:** JavaScript  
+🛠 JavaScript  
 
 ---
 
 ### 🐶 Centro de Adopción  
-Proyecto desarrollado en Python orientado a la gestión de adopción de mascotas, facilitando el registro y organización de información.  
+💡 Plataforma para gestión de adopción de mascotas  
 
 🔗 https://github.com/emijazmincruzrojas-ux/Centro_Adopci-n  
-**Tecnologías:** Python  
+🛠 Python  
 
 ---
 
 ### 📝 Lista de Tareas (Git)  
-Proyecto práctico enfocado en el uso de Git y GitHub, donde se aplican conceptos de control de versiones.  
+💡 Proyecto práctico usando control de versiones  
 
 🔗 https://github.com/emijazmincruzrojas-ux/lista-tareas-git  
-**Tecnologías:** HTML  
+🛠 HTML  
 
 ---
 
 ### 🧪 Pruebas de GitHub  
-Repositorio de pruebas para aprender y practicar funcionalidades de GitHub.  
+💡 Repositorio de práctica y experimentación  
 
 🔗 https://github.com/emijazmincruzrojas-ux/Prueba2026-1  
 
 ---
 
 ### 👥 Proyecto en Equipo  
-Participación en repositorio colaborativo para desarrollo en equipo.  
+💡 Trabajo colaborativo en desarrollo de software  
 
 🔗 https://github.com/paolasanchezdev/Prueba-proyecto-en-equipo  
 
 ---
 
-## 📫 Contáctame  
+## 💜 📫 Contáctame  
 
-- 🌐 GitHub: https://github.com/emijazmincruzrojas-ux  
+<p align="center">
+  <a href="https://github.com/emijazmincruzrojas-ux">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-✨ *Aprendiendo, creando y mejorando cada día* 💜  
+<p align="center">
+✨ 💜 *Aprendiendo, creando y mejorando cada día* 💜 ✨
+</p>
